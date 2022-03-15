@@ -1,0 +1,15 @@
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\bin\Debug\net6.0\steam-id-convertor.exe
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\bin\Debug\net6.0\steam-id-convertor.deps.json
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\bin\Debug\net6.0\steam-id-convertor.runtimeconfig.json
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\bin\Debug\net6.0\steam-id-convertor.dll
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\bin\Debug\net6.0\steam-id-convertor.pdb
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.AssemblyInfo.cs
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.dll
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\refint\steam-id-convertor.dll
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.pdb
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\steam-id-convertor.genruntimeconfig.cache
+C:\Users\nikit\Desktop\rider\c#\steam-id-convertor\steam-id-convertor\obj\Debug\net6.0\ref\steam-id-convertor.dll
